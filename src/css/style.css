@@ -1,13 +1,21 @@
+
+
 h1 {
-    color: darkred
+  color: darkred;
 }
 
-a {color: white !important;}
+a {
+  color: white !important;
+}
 
 nav {
-    background-color: darkred !important
+  background-color: darkred !important;
 }
 
 body {
-    background-color: rgb(174, 190, 205)
+  background-color: rgb(174, 190, 205);
 }
+
+.footerText {
+    font-weight: bold;
+  }
